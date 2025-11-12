@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](<img width="1898" height="931" alt="portfolioimagem" src="https://github.com/user-attachments/assets/7f43c79e-3d8f-4abb-9551-532a298e6191" />
+![image](https://github.com/breninhoz/portfolio/edit/main/README.md#:~:text=assets-,Imagem.png,-github.png)
 
 
 ## Ferramentas utilizadas:
